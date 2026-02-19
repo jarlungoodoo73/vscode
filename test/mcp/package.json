@@ -13,7 +13,7 @@
     "start-stdio": "npm run -s compile && node ./out/stdio.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.17.3",
+    "@modelcontextprotocol/sdk": "^1.26.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "minimist": "^1.2.8",
